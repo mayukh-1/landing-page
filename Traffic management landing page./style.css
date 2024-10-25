@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+.hero {
+    background: url('traffic-7272520_640.jpg') center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+}
+
+.about, .features, .testimonials, .contact {
+    padding: 3rem 0;
+}
+
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 1rem 0;
+}
